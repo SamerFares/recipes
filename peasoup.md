@@ -3,4 +3,5 @@
 -spring onions
 -potato
 # Instructions
--shell peas number 3
+-shell peas and put peas into a pan
+
